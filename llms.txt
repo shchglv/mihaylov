@@ -1,0 +1,25 @@
+# Без границ
+
+> Вводный блог о ВЭД для новичков в контексте России и ЕАЭС. Автор — Дмитрий Михайлов, менеджер «Альфа-Групп».
+
+- [ВЭД с нуля: как устроена международная торговля](https://shchglv.github.io/mihaylov/articles-ved-s-nulya.html)
+- [Как начать проверку зарубежного поставщика](https://shchglv.github.io/mihaylov/articles-proverka-postavshchika.html)
+- [Инвойс, упаковочный лист и другие документы поставки](https://shchglv.github.io/mihaylov/articles-dokumenty-postavki.html)
+- [Море, авиа или автодоставка: как сравнивать варианты](https://shchglv.github.io/mihaylov/articles-vybor-dostavki.html)
+- [Из чего складывается бюджет первой поставки](https://shchglv.github.io/mihaylov/articles-byudzhet-postavki.html)
+- [Словарь ВЭД: первые десять терминов](https://shchglv.github.io/mihaylov/articles-slovar-ved.html)
+- [Обо мне — Дмитрий Михайлов](https://shchglv.github.io/mihaylov/about.html)
+- [Контакты](https://shchglv.github.io/mihaylov/contacts.html)
+- [Что такое код ТН ВЭД и как подойти к его выбору?](https://shchglv.github.io/mihaylov/ved-kod-tn-ved.html)
+- [Что такое Incoterms и зачем указывать место поставки?](https://shchglv.github.io/mihaylov/ved-incoterms.html)
+- [Нужен ли сертификат или декларация на импортный товар?](https://shchglv.github.io/mihaylov/ved-sertifikatsiya-tovara.html)
+- [Что проверить перед оплатой иностранному поставщику?](https://shchglv.github.io/mihaylov/ved-oplata-postavshchiku.html)
+- [Что согласовать во внешнеторговом контракте?](https://shchglv.github.io/mihaylov/ved-dokumenty-kontrakta.html)
+- [Как подготовиться к заказу образцов товара?](https://shchglv.github.io/mihaylov/ved-obraztsy-tovara.html)
+- [Что отправить логисту для расчёта доставки?](https://shchglv.github.io/mihaylov/ved-zapros-logistu.html)
+- [Как подготовиться к приёмке импортного груза?](https://shchglv.github.io/mihaylov/ved-priemka-gruza.html)
+- [Вопросы по ВЭД для новичков](https://shchglv.github.io/mihaylov/ved.html)
+- [С чего начать ВЭД: маршрут первой поставки](https://shchglv.github.io/mihaylov/start.html)
+- [О блоге и редакционные принципы](https://shchglv.github.io/mihaylov/editorial.html)
+
+Материалы знакомят с темой; не заменяют индивидуальную правовую, таможенную или банковскую проверку.
